@@ -1,0 +1,23 @@
+# Obsidian workspace (personal layout)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/workspace
+.obsidian/cache
+
+# Plugins cache and data
+.obsidian/plugins/*/data.json
+
+# Trash
+.trash/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*~
+
+# Backup files
+*.bak
